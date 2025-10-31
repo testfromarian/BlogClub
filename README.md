@@ -66,6 +66,42 @@ Minion is built using **Flutter** and modern packages to ensure performance, res
 
 ---
 
+## Contributing & Pull Requests
+
+Contributions to Minion are highly welcome. To ensure a smooth review and integration process, please adhere to the following guidelines:
+
+- Maintain consistent code style and formatting with the existing project.  
+- Use clear and descriptive titles for pull requests.  
+- Submit pull requests against the main branch.  
+- Check for existing issues before creating a new one.  
+- Follow the established project conventions to ensure consistency.  
+- Contribute thoughtfully and professionally.
+
+Typically, pull requests and issues are reviewed within 24-48 hours.
+
+---
+
+## Created & Maintained By
+
+[Your Name]  
+
+Connect with me professionally:  
+- [GitHub](https://github.com/your-username)  
+- [LinkedIn](https://www.linkedin.com/in/your-link)  
+- [Twitter](https://twitter.com/your-handle)  
+
+---
+
+## Support the Project
+
+If you find Minion useful or have learned from the source code, you may consider supporting the project:  
+- [Buy me a coffee](https://www.buymeacoffee.com/your-link)  
+- [PayPal](https://www.paypal.me/your-link)
+
+Your support allows continued development and enhancement of the project.
+
+---
+
 ## 💻 License
 
 Copyright 2025 Arian Delir G.

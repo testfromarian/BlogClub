@@ -1,12 +1,12 @@
 ![Minion App Screenshot](https://i.imgur.com/0LM5B5Q.png)
 
-# 🟡 Minion
+# Minion
 
 Minion is a Flutter-based portfolio app that brings skills and projects to life with a modern, interactive design. Its smooth and responsive interface, along with support for both light and dark themes and English & Farsi, delivers a flexible and enjoyable user experience. The app is built with reusable components and a clean architecture, making it easy to maintain and extend.
 
 ---
 
-## 🖼 Overview
+## Overview
 
 For help getting started with Flutter, view our online [documentation](https://flutter.dev/).                                                  
 Minion includes a user profile section with avatar, job title, and location, a skill selection panel, and a personal information form. Users can toggle between light and dark themes and switch languages dynamically. The app is fully responsive and optimized for mobile and tablet screens.
@@ -102,7 +102,7 @@ Your support allows continued development and enhancement of the project.
 
 ---
 
-## 💻 License
+## License
 
 Copyright 2025 Arian Delir G.
 

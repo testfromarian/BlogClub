@@ -5,8 +5,7 @@ Blog Club provides a smooth, responsive, and visually appealing user experience 
 
 ---
 
-![نمای پروژه](https://i.imgur.com/Bu7vhk8.png)
-<img src="https://i.imgur.com/Bu7vhk8.png" width="100" />
+<img src="https://i.imgur.com/Bu7vhk8.png" width="200" />
 
 ## ✨ Features
 

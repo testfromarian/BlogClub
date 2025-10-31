@@ -83,7 +83,7 @@ Typically, pull requests and issues are reviewed within 24-48 hours.
 
 ## Created & Maintained By
 
-[Your Name]  
+[Arian Delir G.]  
 
 Connect with me professionally:  
 - [GitHub](https://github.com/your-username)  
@@ -94,11 +94,10 @@ Connect with me professionally:
 
 ## Support the Project
 
-If you find Minion useful or have learned from the source code, you may consider supporting the project:  
+If you find Minion useful or have learned from the source code, you may consider supporting the project: 
+Your support allows continued development and enhancement of the project.
 - [Buy me a coffee](https://www.buymeacoffee.com/your-link)  
 - [PayPal](https://www.paypal.me/your-link)
-
-Your support allows continued development and enhancement of the project.
 
 ---
 

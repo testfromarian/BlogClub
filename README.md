@@ -43,22 +43,6 @@ Minion is built using **Flutter** and modern packages to ensure performance, res
 
 ---
 
-## 🚀 Getting Started
-
-To run Minion locally:
-
-```bash
-# Clone the repository
-git clone https://github.com/your-username/minion.git
-
-# Navigate into the project
-cd minion
-
-# Install dependencies
-flutter pub get
-
-# Run the app
-flutter run
 
 ## 📌 Notes
 
@@ -81,7 +65,7 @@ flutter run
 
 ## 💻 License
 
-Copyright 2025 Arian Delir
+Copyright 2025 Your Name
 
 Licensed under the Apache License, Version 2.0 (the "License");  
 you may not use this file except in compliance with the License.  
@@ -94,3 +78,22 @@ distributed under the License is distributed on an "AS IS" BASIS,
 WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.  
 See the License for the specific language governing permissions and  
 limitations under the License.
+
+
+## 🚀 Getting Started
+
+To run Minion locally:
+
+```bash
+# Clone the repository
+git clone https://github.com/your-username/minion.git
+
+# Navigate into the project
+cd minion
+
+# Install dependencies
+flutter pub get
+
+# Run the app
+flutter run
+

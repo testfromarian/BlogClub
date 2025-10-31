@@ -1,3 +1,6 @@
+![Minion App Screenshot](https://i.imgur.com/0LM5B5Q.png)
+## Show some ❤️ and star the repo to support the project
+
 # 🟡 Minion
 
 Minion is a modern Flutter portfolio application designed to showcase your skills, projects, and design aesthetics. The app provides a smooth, responsive, and visually appealing user experience with full support for **dark and light themes** and **multi-language support** (English & Farsi). It’s built with clean architecture, reusable components, and a focus on responsiveness and usability.

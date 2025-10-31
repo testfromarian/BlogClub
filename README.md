@@ -60,3 +60,37 @@ flutter pub get
 # Run the app
 flutter run
 
+## 📌 Notes
+
+- The app supports **English and Farsi**. Language can be switched dynamically via the in-app language toggle.
+- **Dark and light themes** are fully integrated and can be toggled from the app bar.
+- Make sure your Flutter SDK is version **>=3.8.1** as specified in `pubspec.yaml`.
+- All images and fonts must be present in the `assets/` folder; otherwise, the app may crash.
+
+---
+
+## 💡 Future Improvements
+
+- Add form validation for `PersonalInformationForm`.
+- Load skills dynamically from a backend or JSON file.
+- Allow users to change their profile picture.
+- Enhance skill card animations for better interactivity.
+- Integrate **state management** (Provider/Riverpod) for larger projects.
+
+---
+
+## 💻 License
+
+Copyright 2025 Arian Delir
+
+Licensed under the Apache License, Version 2.0 (the "License");  
+you may not use this file except in compliance with the License.  
+You may obtain a copy of the License at:
+
+[http://www.apache.org/licenses/LICENSE-2.0](http://www.apache.org/licenses/LICENSE-2.0)
+
+Unless required by applicable law or agreed to in writing, software  
+distributed under the License is distributed on an "AS IS" BASIS,  
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.  
+See the License for the specific language governing permissions and  
+limitations under the License.

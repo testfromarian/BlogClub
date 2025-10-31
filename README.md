@@ -45,17 +45,22 @@ Minion is built using **Flutter** and modern packages to ensure performance, res
 
 ## 🚀 Getting Started
 
-To run Minion locally:
+Follow these steps to run **Minion** locally on your machine:
 
 ```bash
-# Clone the repository
+# 1. Clone the repository
 git clone https://github.com/your-username/minion.git
 
-# Navigate into the project
+# 2. Navigate into the project directory
 cd minion
 
-# Install dependencies
+# 3. Install dependencies
 flutter pub get
 
-# Run the app
+# 4. Make sure assets and fonts are available
+#    - images: assets/images/
+#    - fonts: assets/fonts/IranYekan.ttf and IranYekanBold.ttf
+
+# 5. Run the app
 flutter run
+

@@ -1,4 +1,5 @@
 ![Minion App Screenshot](https://i.imgur.com/0LM5B5Q.png)
+For help getting started with Flutter, view our online [documentation](https://flutter.dev/).                                                  
 
 # 🟡 Minion
 
@@ -83,7 +84,6 @@ limitations under the License.
 
 
 ## 🚀 Getting Started
-For help getting started with Flutter, view our online [documentation](https://flutter.dev/).
 For help on editing plugin code, view the [documentation](https://docs.flutter.dev/packages-and-plugins/using-packages#edit-code).
 
 To run Minion locally:

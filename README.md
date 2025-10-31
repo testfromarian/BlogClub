@@ -5,9 +5,12 @@ Blog Club provides a smooth, responsive, and visually appealing user experience 
 
 ---
 
+## 
+
 ## ✨ Features
 
-- 🌓 Dark & Light theme support  
+- 🌓 Dark & Light theme support  ![Uploading DeWatermark.ai_1745538235404.png…]()
+
 - 📖 Modern blog-style portfolio layout  
 - ⚡ Smooth navigation and transitions  
 - 📱 Fully responsive design for mobile and tablet  

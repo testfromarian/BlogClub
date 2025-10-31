@@ -31,15 +31,15 @@ Minion includes a user profile section with avatar, job title, and location, a s
 
 ## 🛠 Technologies & Tools
 
-Minion leverages the Flutter ecosystem and modern packages for performance, theming, and localization:
+Minion is built using **Flutter** and modern packages to ensure performance, responsiveness, and full localization support:
 
-- [Flutter](https://flutter.dev/) & [Dart](https://dart.dev/)  
-- **Material Design 3** and responsive UI components  
-- [Google Fonts](https://pub.dev/packages/google_fonts) for English typography  
-- **IranYekan** font for Farsi text  
-- [flutter_localizations](https://api.flutter.dev/flutter/flutter_localizations/flutter_localizations-library.html), [intl](https://pub.dev/packages/intl), and [flutter_i18n](https://pub.dev/packages/flutter_i18n) for multi-language support  
-- [flutter_gen](https://pub.dev/packages/flutter_gen) for automatic asset management  
-- **CupertinoIcons** for iOS-style icons  
+- **Flutter & Dart** – Core framework and language
+- **Material Design 3** – Modern UI components
+- **Google Fonts** – English typography
+- **IranYekan** – Farsi font support
+- **Localization** – `flutter_localizations`, `intl`, and `flutter_i18n` for multi-language support
+- **Asset Management** – `flutter_gen` for automatic assets handling
+- **Icons** – `CupertinoIcons` for iOS-style icons
 
 ---
 

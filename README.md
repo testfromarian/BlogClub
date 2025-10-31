@@ -5,11 +5,11 @@ Blog Club provides a smooth, responsive, and visually appealing user experience 
 
 ---
 
-![نمای پروژه](https://i.imgur.com/yosRNHm.png)
+![نمای پروژه](https://i.imgur.com/Bu7vhk8.png)
 
 ## ✨ Features
 
-- 🌓 Dark & Light theme support  ![Uploading DeWatermark.ai_1745538235404.png…]()
+- 🌓 Dark & Light theme support 
 
 - 📖 Modern blog-style portfolio layout  
 - ⚡ Smooth navigation and transitions  

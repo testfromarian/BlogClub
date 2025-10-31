@@ -84,6 +84,7 @@ limitations under the License.
 
 ## 🚀 Getting Started
 For help getting started with Flutter, view our online [documentation](https://flutter.dev/).
+
 For help on editing plugin code, view the [documentation](https://docs.flutter.dev/packages-and-plugins/using-packages#edit-code).
 
 To run Minion locally:
@@ -101,7 +102,6 @@ flutter pub get
 # Run the app
 flutter run
 
-For help on editing plugin code, view the [documentation](https://docs.flutter.dev/packages-and-plugins/using-packages#edit-code).
 
 
 
